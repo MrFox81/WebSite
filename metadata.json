@@ -1,0 +1,9 @@
+{
+  "name": "MR.FOX - Personal Website",
+  "description": "Portfolio professionale di Valerio Volpe",
+  "requestFramePermissions": [],
+  "localConfig": {
+    "protocol": "file",
+    "allowLocalImports": true
+  }
+}
